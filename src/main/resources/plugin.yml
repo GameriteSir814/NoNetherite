@@ -1,0 +1,6 @@
+name: NoNetherite
+version: 1.0.0
+main: com.nonetherite.NoNetherite
+api-version: '1.21'
+author: EvolutionSMP
+description: Makes netherite fully unobtainable - mining, loot, smelting, crafting, and mob drops are all blocked.

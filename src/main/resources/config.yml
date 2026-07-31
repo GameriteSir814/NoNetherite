@@ -1,0 +1,3 @@
+enabled: true
+# Message shown when someone tries to mine ancient debris.
+block-message: "&cAncient debris cannot be mined on this server."
